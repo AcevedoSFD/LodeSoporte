@@ -1,6 +1,7 @@
 console.log("holi");
 
 /*
+
 git commit -
 	Agregar comentarios a los cambios
 git log -
@@ -13,4 +14,5 @@ git ignore -
 	Ignorar archivos o carpetas que no quieres que haya
 git branch -
 	Visulaizar todas las ramas creadas en el proyecto
+	
 */
