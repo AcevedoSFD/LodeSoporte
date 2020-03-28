@@ -4,3 +4,4 @@ console.log("holi");
 //git log - ver comentarios ya hechos en las ramas
 //git add. - añadir todos los archivos y cambios que se han hecho
 //git status - observar el estado de los cambios
+//git ignore - ignorar archivos o carpetas que no quieres que haya
